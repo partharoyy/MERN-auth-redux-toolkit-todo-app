@@ -1,0 +1,6 @@
+[submodule "FE"]
+	path = FE
+	url = https://github.com/partharoyy/MERN-auth-redux-toolkit-todo-app-frontend.git
+[submodule "BE"]
+	path = BE
+	url = https://github.com/partharoyy/MERN-auth-redux-toolkit-todo-app-backend.git
